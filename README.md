@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meetchi
 - 👀 I’m interested in software development and UI design
-- 🌱 I’m currently learning web3 development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web2 and web3 projects
 - 📫 You can reach me via my email address dev.chigreen@gmail.com
 
